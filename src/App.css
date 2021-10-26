@@ -1,0 +1,60 @@
+.navbar{
+  background-color: rgb(137 246 255);
+}
+
+.header{
+  color: #0007e1;
+}
+
+.nav-link{
+  color: #f1f1f5;
+}
+
+.blog-preview:hover {
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.25);
+}
+
+.blog-preview h2{
+  color: rgb(35 213 213);
+}
+
+.blog-preview p{
+  color: rgb(17 43 44);
+}
+
+.blog-preview p span{
+  color: rgb(26 163 156);
+}
+
+.blog-body{
+  text-align: justify;
+}
+
+.blog-details h2 {
+  color: rgb(35 213 213);
+}
+
+.blog-details p {
+  color: rgb(26 163 156);
+}
+
+.blog-details button {
+  background-color: #ff5656;
+  border-width: 1px;
+  border-color: #be2e2e;
+}
+
+.blog-details button:hover {
+  background-color: #fa1818;
+  border-width: 2px;
+  border-color: #3a0606;
+}
+
+.new-blog h2{
+  color: rgb(35 213 213);
+}
+
+.new-blog button{
+  background-color: #3db3ff;
+  color: #06162a;
+}
